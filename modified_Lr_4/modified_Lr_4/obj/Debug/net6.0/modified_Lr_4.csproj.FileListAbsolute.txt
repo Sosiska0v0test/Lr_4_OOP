@@ -1,0 +1,14 @@
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\bin\Debug\net6.0\modified_Lr_4.exe
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\bin\Debug\net6.0\modified_Lr_4.deps.json
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\bin\Debug\net6.0\modified_Lr_4.runtimeconfig.json
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\bin\Debug\net6.0\modified_Lr_4.dll
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\bin\Debug\net6.0\modified_Lr_4.pdb
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.AssemblyInfoInputs.cache
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.AssemblyInfo.cs
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.dll
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\refint\modified_Lr_4.dll
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.pdb
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\modified_Lr_4.genruntimeconfig.cache
+C:\Users\Angel\source\repos\modified_Lr_4\modified_Lr_4\obj\Debug\net6.0\ref\modified_Lr_4.dll
